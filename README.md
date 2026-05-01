@@ -10,6 +10,7 @@
 * [Digdag](https://github.com/treasure-data/digdag) - (local app) Simple, open source, multi-cloud workflow engine.
 * [Gleam](https://github.com/chrislusf/gleam) - (local app) High performance and efficient distributed execution system, simple, generic, flexible and easy to customize.
 * [Huginn](https://github.com/huginn/huginn) - (local app) Create agents that monitor and act on your behalf. A hackable version of IFTTT or Zapier on your own server.
+* [APIWatch](https://github.com/155143783/apiwatch) - API health monitoring and alerting tool with x402 payment support for paid endpoints.
 * [IFTTT](https://ifttt.com) - (cloud) IFTTT is a free platform that helps you do more with all your apps and devices, including Facebook, Twitter, Dropbox, Evernote, Nest, Fitbit, Amazon Alexa, and Gmail.
 * [Integromat](https://integromat.com) - (cloud) Online automation platform. Beautifully-crafted editor.
 * [Leprechaun](https://github.com/kilgaloon/leprechaun) - Tool where you can schedule your recurring tasks to be performed over and over. There are 3 types of recipes: scheduled, hooked and cron scheduling jobs.
